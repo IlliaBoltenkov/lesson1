@@ -1,2 +1,2 @@
 
-[table email](https://illiaboltenkov.github.io/)
+[email](https://illiaboltenkov.github.io/)
